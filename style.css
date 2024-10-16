@@ -1,0 +1,31 @@
+#idd  {
+    height:200px;
+    width: 400px;
+
+
+
+}
+body{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+#divv{
+    height: 200px;
+    width:400px;
+}   
+
+
+button{
+    color: green;
+   border-radius: 50px;
+   height: 50px;
+   width:100px;
+}
+
+button:hover{
+    height: 60px;
+    width:120px;
+    color: red;
+    font-size: 20px;
+}
